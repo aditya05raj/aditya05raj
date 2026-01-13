@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently final year student <br>I'm looking to Internship or Job <br>I'm looking for help with technology <br>I'm currently learning Programming,Data,Analytics<br>Focuses strongly on skill development,<br>Career growth, and real industry exposure<br>
+I'm currently final year student <br>I'm looking to Internship or Job <br>I'm looking for help with technology <br>I'm currently learning Programming, Data Analytics<br>Focuses strongly on skill development,<br>Career growth, and real industry exposure<br>
 
 
 ## 🌐 Socials:
